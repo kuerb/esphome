@@ -1,6 +1,8 @@
 #include "b_parasite.h"
 #include "esphome/core/log.h"
 
+// Just a change to test if external components work
+
 #ifdef ARDUINO_ARCH_ESP32
 
 namespace esphome {
